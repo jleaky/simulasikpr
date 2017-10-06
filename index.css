@@ -1,0 +1,19 @@
+.h1 {
+  color: grey;
+  text-align: center;
+  margin-top: 20px;
+}
+
+body {
+  margin: 25px;
+}
+
+.bordered {
+  border: 2px solid darkgrey;
+}
+
+.container {
+  background: url("building.jpg") no-repeat bottom center fixed;
+  background-size: cover;
+  height: 800px;
+}
